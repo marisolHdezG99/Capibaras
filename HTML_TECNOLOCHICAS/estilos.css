@@ -1,0 +1,38 @@
+body{
+    background-color:#eff0e4;
+    color: #006963; 
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+    color: #006963;
+    font-size: 40px;
+    font-family: 'Righteous', cursive;
+    text-align: center;
+}
+h3{
+    color: #007c54;
+    font-size: 25px;
+}
+
+a{
+    color: #76ae72;
+}
+img{
+    height: 300px;
+    width: 400px;
+    border-style:solid;
+    border-color: #006963;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    padding: 5px;
+}
+
+.img1{
+    height: 300px;
+    width: 400px;
+}
+.img1{
+    height: 300px;
+    width: 400px;
+}
